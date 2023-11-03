@@ -101,5 +101,5 @@ features = [
 members = [
   "examples/hello",
   "examples/howto",
-  "examples/test"
+  "examples/glutin-update-test"
 ]
